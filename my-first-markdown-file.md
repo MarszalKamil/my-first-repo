@@ -6,4 +6,4 @@ This is my **fist** markdown file. Try to:
 * find all new *text styles*
 
 If yo wish to find out more about git just run the command `git --help`
-to fingd out more please visit [e.wikipedia.org]
+to fingd out more please visit [wikipedia](http://en.wikipedia.org)
